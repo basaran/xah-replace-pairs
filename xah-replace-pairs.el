@@ -42,6 +42,7 @@
 ;; HHH___________________________________________________________________
 ;;; Code:
 
+;;;###autoload
 (defun xah-replace-pairs-region (Begin End Pairs &optional Report-p Hilight-p)
   "Replace multiple Pairs of find/replace strings in region Begin End.
 
