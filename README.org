@@ -1,7 +1,5 @@
 A emacs lisp package that provides elisp functions for doing find/replace with multiple pairs, and guarantees that earlier find/replace pair does not effect later find/replace pairs.
 
-[[http://melpa.org/#/xah-replace-pairs][file:http://melpa.org/packages/xah-replace-pairs-badge.svg]]
-
 The functions are:
 
 - xah-replace-pairs-region
